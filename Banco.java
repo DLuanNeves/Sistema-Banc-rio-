@@ -1,0 +1,1 @@
+            if (tipo.equalsIgnoreCase("corrente")) {
